@@ -1,0 +1,186 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://finstatinsight.com/"
+languageCode = "en-us"
+title = "FinStatInsight.com"
+googleAnalytics = "G-V7F258G3QK" # Add your identifier. For example UA-99631805-1.
+paginate = 7
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "authors"
+    name = "Authors"
+    url = "/authors/"
+    weight = 3
+
+      [[menu.main]]
+        parent = "Pages"
+        name = "About"
+        url = "/about/"
+        weight = 1
+
+      [[menu.main]]
+        parent = "Pages"
+        name = "Contact"
+        url = "/contact/"
+        weight = 2
+
+
+    # Footer Menu
+    [[menu.footer]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+    [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 2
+
+    [[menu.footer]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 3
+
+    [[menu.footer]]
+      identifier = "tos"
+      name = "Term of Use"
+      url = "/term-of-use/"
+      weight = 4
+
+
+[params]
+  logo = "images/finstatinsight-logo-90.png" # You can add own logo. For example "/images/logo.png".
+  logo_dark = "images/finstatinsight-logo-90-white.png" # You can add own logo. For example "/images/logo.png".
+  description = "FinStatInsight.com unlock insight on the Malaysia companies financial statements to get better clarity on the company fundamental, inform clear informations on its numbers to give empowered financial investment making."
+  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+  custom_css = ["css/custom.css"]
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "Clarity in Numbers, Confidence in Market Investment Decision"
+    hero__description = "FinStatInsight bring financial statements to life, offering clear insights through company fundamentals analysis. Navigate the markets with confidence, leveraging our expertise for financial clarity and better investment strategies."
+    hero__image = "" # You can add hero image. For example "/images/06.jpg"
+
+
+  #-------------------------------
+  # Blog Section Settings
+  [params.blog]
+    enable = true
+    blog__title = "Latest Posts"
+    blog__description = ""
+
+
+  #-------------------------------
+  # Author Section Settings
+  [params.author_section]
+    enable = true
+    author__section__title = "Explore Comprehensive Reports & In-Depth Analysis"
+    author__section__description = " Dive deeper into company financials with our detailed and user-friendly reports. Gain valuable insights through our meticulously crafted analyses of key financial statements."
+    aurhor__section__button__text = "Yes, i want to know more..."
+    aurhor__section__button__link = "/comprehensive-financial-report"
+    author__section__big__image = "/images/pages/vector-financial-dashboard-matrix.jpg"
+    author__section__small__image = "/images/pages/excel-financial-dashboard-chart.jpg"
+    author__section__image__alt = "Alena Curtis"
+
+  # Newsletter
+  [params.mailchimp]
+    enable = true
+    mailchimp__title = "Stay Updated"
+    mailchimp__description = "Receive regular updates on Malaysia companies financial statements to stay informed about the latest developments and trends."
+    mailchimp__identifier = "https://finstatinsight.us21.list-manage.com/subscribe/post?u=33fb82b6d2e938939aad92fbe&amp;id=1e7b6cd331&amp;f_id=00e0ece6f0" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+    mailchimp__input__text = "Your email address"
+    mailchimp__button__text = "Subscribe"
+    mailchimp__background__image = "https://via.placeholder.com/1920x1080"
+
+
+  #-------------------------------
+  # Footer Settings
+  [params.footer]
+    footer__description = "FinStatInsight helping you to get better clarity on Malaysia companies fundamental analysis through its financial statements."
+
+  # Social Links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter X"
+    link = "https://twitter.com/finstatinsight.com"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com/finstatinsight"
+
+  [[params.social]]
+    icon = "ion-logo-pinterest"
+    name = "Pinterest"
+    link = "https://pinterest.com/finstatinsight"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://instagram.com/finstatinsight"
+
+  # Example of adding a new link to the footer section:
+  # [[params.social]]
+  #   icon = "ion-logo-youtube"
+  #   name = "Youtube"
+  #   link = "https://youtube.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    email = "finstatinsight@gmail.com" # Add your form_id
+    access_key = "49b4fee5-9e93-492c-bcaa-9b0b7990065c"    
+
+    # NOTE
+    # Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = true
+    disqusShortname = "finstatinsight" # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
