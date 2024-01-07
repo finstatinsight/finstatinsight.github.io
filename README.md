@@ -1,6 +1,6 @@
 ## About FinStatInsight
 
-Welcome to FinStatInsight.com, your ultimate destination for in-depth financial analysis within the dynamic landscape of Malaysia's corporate realm. I'm Chan, the founder and chief analyst, dedicated to providing you with unparalleled insights into the heart of Malaysia financial markets.
+Welcome to <a href="https://FinStatInsight.com" target="_blank">FinStatInsight.com</a>, your ultimate destination for in-depth financial analysis within the dynamic landscape of Malaysia's corporate realm. I'm Chan, the founder and chief analyst, dedicated to providing you with unparalleled insights into the heart of Malaysia financial markets.
 
 ### Our Core Focus
 
