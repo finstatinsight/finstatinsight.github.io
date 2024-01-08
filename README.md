@@ -16,4 +16,4 @@ While financial statements serve as the cornerstone of our analysis, we also exp
 
 ### Join the Insight Journey
 
-Embark on a journey of financial exploration with us. Whether you're a seasoned investor or a newcomer to the market, FinStatInsight.com is your compass for navigating the ever-changing currents of the financial in a hope to help your journey on the Malaysia stocks, investment strategies, and market intelligence.
+Embark on a journey of financial exploration with us. Whether you're a seasoned investor or a newcomer to the market, FinStatInsight.com is your 
