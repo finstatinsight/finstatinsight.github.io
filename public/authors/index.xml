@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on FinStatInsight.com</title>
+    <link>https://finstatinsight.com/authors/</link>
+    <description>Recent content in Authors on FinStatInsight.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 15:01:35 +0300</lastBuildDate><atom:link href="https://finstatinsight.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://finstatinsight.com/authors/chan/</link>
+      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
+      
+      <guid>https://finstatinsight.com/authors/chan/</guid>
+      <description>Passionate about finance and the Malaysian stock market, I thrive on unraveling the intricacies of company fundamentals. Through in-depth financial statement analysis, I seek to enhance my understanding, contributing to informed investment decisions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -68,7 +68,7 @@ paginate = 7
 
 
 [params]
-  logo = "images/finstatinsight-logo-90.png" # You can add own logo. For example "/images/logo.png".
+  logo = "images/finstatinsight-logo-60.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = "images/finstatinsight-logo-90-white.png" # You can add own logo. For example "/images/logo.png".
   description = "FinStatInsight.com unlock insight on the Malaysia companies financial statements to get better clarity on the company fundamental, inform clear informations on its numbers to give empowered financial investment making."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
