@@ -5,7 +5,7 @@ date:   2024-05-29 10:01:35 +0300
 authors: [chan]
 image: '/posts/southern-cable-group-berhad-1st-qtr-2024-profit-surge-18m/cable-wire-industrial-plant.webp'
 tags:  [Southern Cable Group Berhad,Industrial Material, 2024-Q1,Main Market]
-tags_color: '#E36C14'
+tags_color: '#EBCB9E'
 ---
 ### Southern Cable Group Berhad Q1-2024 Summary
 In the quarter ending March 31, 2024, the Group's revenue rose to RM312.03 million, up from RM240.93 million in the same quarter last year, marking a 29.51% increase.
