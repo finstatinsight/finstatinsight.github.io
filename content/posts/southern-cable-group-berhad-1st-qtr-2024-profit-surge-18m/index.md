@@ -3,7 +3,7 @@ title:  Southern Cable Group Berhad Q1 2024 Profit Surge To 18.57 Million
 description: Southern Cable Grooup Berhad Q1 2024 financial quarterly report recorded 18.57 Million profit before tax, almost 3 times compare to last year. The increase due to higher revenue growth due to sales volume of power cables and wires and adjusted average selling prices in line with raw material prices.
 date:   2024-05-29 10:01:35 +0300
 authors: [chan]
-image: '/posts/southern-cable-group-berhad-1st-qtr-2024-profit-surge-18m/cable-wire-industrial-plant.jpg'
+image: '/posts/southern-cable-group-berhad-1st-qtr-2024-profit-surge-18m/cable-wire-industrial-plant.webp'
 tags:  [Southern Cable Group Berhad,Industrial Material ,0225, 2024-Q1,Ace Market]
 tags_color: '#E36C14'
 ---
