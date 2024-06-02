@@ -6,19 +6,19 @@ image: '/images/pages/professional-man-looking-term-of-use-page.jpg'
 
 Welcome to FinStatInsight.com
 
-By accessing and using our website, you agree to comply with and be bound by the following terms and conditions of use. Please read these Terms of Use carefully before using our website and service related to finance analysis and compancy fundamental analysis.
+By accessing and using our website or **FinStatInsight Reporting Dashboard**, you agree to comply with and be bound by the following terms and conditions of use. Please read these Terms of Use carefully before using our website and service related to finance analysis and compancy fundamental analysis.
 
 ## 1. Acceptance of Terms
 
-By accessing or using our website, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our website and services.
+By accessing or using our website or **FinStatInsight Reporting Dashboard**, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our website and services.
 
 ## 2. User Eligibility
 
-You must be at least 18 years old or have the legal capacity to enter into a contract to use our services. By using our website, you represent and warrant that you meet these eligibility requirements.
+You must be at least 18 years old or have the legal capacity to enter into a contract to use our services. By using our website or **FinStatInsight Reporting Dashboard**, you represent and warrant that you meet these eligibility requirements.
 
 ## 3. Use of Content
 
-All content provided on our website, including but not limited to articles, analyses, graphics, and other materials, is for informational purposes only. It does not constitute financial advice, and you should not rely solely on this information when making financial decisions. We are not responsible for any actions taken based on the content provided.
+All content provided on our website and **FinStatInsight Reporting Dashboard**, including but not limited to articles, analyses, graphics, and other materials, is for informational purposes only. It does not constitute financial advice, and you should not rely solely on this information when making financial decisions. We are not responsible for any actions taken based on the content provided.
 
 ## 4. Financial Risks
 
@@ -26,11 +26,11 @@ Investing in the stock market involves risks, and past performance is not indica
 
 ## 5. User Conduct
 
-You agree to use our website in a manner consistent with all applicable laws and regulations. You will not engage in any activity that could harm, disable, overburden, or impair our website or interfere with any other user's access to our services.
+You agree to use our website and **FinStatInsight Reporting Dashboard** in a manner consistent with all applicable laws and regulations. You will not engage in any activity that could harm, disable, overburden, or impair our website or interfere with any other user's access to our services.
 
 ## 6. Account Registration
 
-Certain features of our service and website may require you to register an account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. Notify us immediately of any unauthorized use of your account.
+Certain features of our service, website and **FinStatInsight Reporting Dashboard** may require you to register an account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. Notify us immediately of any unauthorized use of your account.
 
 ## 7. Termination of Access
 

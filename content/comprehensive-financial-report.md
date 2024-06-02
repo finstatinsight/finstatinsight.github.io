@@ -39,7 +39,7 @@ Yes, you saw it right. At the moment, we'll give it for FREE with small favor fr
 3. Comment on that instagram post by saying "I'd like to get the dashboard".
 3. DM on our instagram by stating your email address and which company financial statement you'd like to get the comprehensive dashboard.
 
-Once that instagram post reach 100 comments, we'll contact you to share the dashboard link. Straightfoward isn't it?
+We'll contact you to share the dashboard link. Straightfoward isn't it?
 
 Recognizing the value of your time, we have meticulously gathered and compiled the financial data quarter by quarter and year by year from companies' released financial statements reports. This ready-made comprehensive report is designed to be a time-saving resource for you to get your choosen company's fundamental analysis.
 
