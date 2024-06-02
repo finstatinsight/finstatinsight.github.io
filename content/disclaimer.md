@@ -6,7 +6,7 @@ image: '/images/pages/disclaimer-financial-data.jpg'
 
 ## General Information
 
-The content on this website (the "Site") is for informational and educational purposes only. It is not intended to provide specific financial, investment, tax, legal, or accounting advice. The information presented on the Site is not a substitute for professional advice from a qualified financial advisor. Always seek the advice of your financial advisor or other qualified financial professional with any questions you may have regarding your financial situation.
+The content on this website ("FinStatInsight.com") is for informational and educational purposes only. It is not intended to provide specific financial, investment, tax, legal, or accounting advice. The information presented on the Site is not a substitute for professional advice from a qualified financial advisor. Always seek the advice of your financial advisor or other qualified financial professional with any questions you may have regarding your financial situation.
 
 ## No Investment Advice
 
