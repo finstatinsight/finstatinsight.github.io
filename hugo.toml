@@ -66,6 +66,12 @@ paginate = 7
       url = "/term-of-use/"
       weight = 4
 
+    [[menu.footer]]
+      identifier = "disclaimer"
+      name = "Disclaimer"
+      url = "/disclaimer/"
+      weight = 5  
+
 
 [params]
   logo = "images/finstatinsight-logo-52.png" # You can add own logo. For example "/images/logo.png".

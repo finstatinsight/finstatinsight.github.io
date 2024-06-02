@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-image: '/images/pages/professional-man-looking-term-of-use-page.jpg'
+image: '/images/pages/disclaimer-financial-data.jpg'
 ---
 # Disclaimer
 
