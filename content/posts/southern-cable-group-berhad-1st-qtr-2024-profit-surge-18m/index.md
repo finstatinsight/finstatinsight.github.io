@@ -1,6 +1,6 @@
 ---
 title:  Southern Cable Group Berhad Q1 2024 Profit Surge To 18.57 Million
-description: Southern Cable Grooup Berhad Q1 2024 financial quarterly report recorded 18.57 Million profit before tax, almost 3 times compare to last year. The increase due to higher revenue growth due to sales volume of power cables and wires and adjusted average selling prices in line with raw material prices.
+description: Southern Cable Group Berhad Q1 2024 financial quarterly report recorded 18.57 Million profit before tax, almost 3 times compare to last year. The increase due to higher revenue growth due to sales volume of power cables and wires and adjusted average selling prices in line with raw material prices.
 date:   2024-05-29 10:01:35 +0300
 authors: [chan]
 image: '/posts/southern-cable-group-berhad-1st-qtr-2024-profit-surge-18m/cable-wire-industrial-plant.webp'
@@ -57,7 +57,6 @@ Despite the increasing revenue and cost of sales, the gross profit has shown onl
 Citing from [Southern Cable Annual Report 2023](https://www.klsescreener.com/v2/announcements/view/6893469), the Southern Cable Group expecting their plastic compounding factory on PT 4845 to begin construction work in the first half of 2024, providing them with an additional 4,200 MT of annual capacity. The new plastic compound factory will enable Southern Cable to produce a new range of plastic compounds, including Polyolefin (PO), Polyethylene (PE), and Cross- Linked Polyethylene (XLPE). 
 
 The new plastic compounds will not only increase the plastic insulation options for their customers but also **help reduce costs**. This new factory is targeted to be completed in the second half of 2024 and will increase their annual plastic compounding capacity by 54% to 12,000 MT, from 7,800 MT currently.
-
 
 > Barring unforeseen circumstances, Southern Cable’s outlook for FY2024 remains positive, supported by its annual cable and wire production capacity of 41,980 km, which has increased from 40,780 km as at 31 December 2023, after the commencement of its newly installed
 production line for medium-voltage power cables and wires in March 2024.
