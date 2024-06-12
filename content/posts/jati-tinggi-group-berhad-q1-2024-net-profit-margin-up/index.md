@@ -50,20 +50,20 @@ Below is table consists of last 3 quarters Profit & Loss Statements data.
 | **Quarters**          | 2023-Q3        | 2023-Q4        | 2024-Q1        |
 |-----------------------|----------------|----------------|----------------|
 | **Periods**           | 31-Aug-2023    | 30-Nov-2023    | 29-Feb-2024    |
-| **Revenue (RM '000)** | 33,053         | 35,984         | 29,014         |
-| **Cost of Sales (RM '000)** | -30,069        | -32,787        | -25,191        |
-| **Gross Profit (RM '000)**  | 2,984          | 3,197          | 3,823          |
-| **Other Income (RM '000)**  | 573            | 918            | 7,633          |
-| **Administrative Expenses (RM '000)** | -1,813         | -2,358         | -2,285         |
-| **Other expenses (RM '000)**           | -218           | -218           | -216           |
-| **Profit/(loss) from Operations (RM '000)** | 1,526          | 1,539          | 8,955          |
-| **Finance income (RM '000)**           | 0              | 27             | 89             |
-| **Finance Costs (RM '000)**            | -535           | -558           | -382           |
-| **Net impairment gain/(loss) on financial assets (RM '000)** | 763            | -62            | -484           |
-| **Profit/(loss) before Tax (RM '000)** | 1,754          | 946            | 8,178          |
-| **Tax Expense (RM '000)**              | -342           | -517           | -941           |
-| **Profit/(loss) after Tax (RM '000)**  | 1,412          | 429            | 7,237          |
-| **Profit attributable to: (RM '000)**  |                |                |                |
+| **Revenue  | 33,053         | 35,984         | 29,014         |
+| **Cost of Sales  | -30,069        | -32,787        | -25,191        |
+| **Gross Profit   | 2,984          | 3,197          | 3,823          |
+| **Other Income   | 573            | 918            | 7,633          |
+| **Administrative Expenses  | -1,813         | -2,358         | -2,285         |
+| **Other expenses            | -218           | -218           | -216           |
+| **Profit/(loss) from Operations  | 1,526          | 1,539          | 8,955          |
+| **Finance income            | 0              | 27             | 89             |
+| **Finance Costs             | -535           | -558           | -382           |
+| **Net impairment gain/(loss) on financial assets  | 763            | -62            | -484           |
+| **Profit/(loss) before Tax  | 1,754          | 946            | 8,178          |
+| **Tax Expense               | -342           | -517           | -941           |
+| **Profit/(loss) after Tax   | 1,412          | 429            | 7,237          |
+| **Profit attributable to:   |                |                |                |
 | **Owners of the Company** | 1,412          | 429            | 7,237          |
 | **Non-controlling interests** | 0              | 0              | 0              |
 | **Profit for the financial period** | 1,412          | 429            | 7,237          |
