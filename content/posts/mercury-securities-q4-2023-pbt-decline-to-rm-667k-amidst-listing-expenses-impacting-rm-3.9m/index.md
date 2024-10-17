@@ -4,7 +4,7 @@ description: Mercury Securities Q4-2024 concluding on October 31, 2023 profit be
 date:   2023-12-26 15:01:35 +0300
 authors: [chan]
 image: '/posts/mercury-securities-q4-2023-pbt-decline-to-rm-667k-amidst-listing-expenses-impacting-rm-3.9m/stockbroker-looked-at-shares-dashboard.jpg'
-tags:  [Mercury Securities Group Berhad, Others Financials,285, 2023-Q4]
+tags:  [Mercury Securities Group Berhad, Others Financials,285, 2023-Q4,IPO-2023]
 tags_color: '#598c58'
 ---
 ### Mercury Securities Berhad Q4-2023 Summary

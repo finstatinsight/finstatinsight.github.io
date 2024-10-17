@@ -4,7 +4,7 @@ description: Jati Tinggi Group Berhad Q1 2024 financial quarterly report recorde
 date:   2024-04-26 10:01:35 +0300
 authors: [chan]
 image: '/posts/jati-tinggi-group-berhad-q1-2024-net-profit-margin-up/electrical-tower-cable-on-street.jpg'
-tags:  [Jati Tinggi Group Berhad, 2024-Q1,ACE Market,Construction]
+tags:  [Jati Tinggi Group Berhad, 2024-Q1,ACE Market,Construction,IPO-2023]
 tags_color: '#98b0c4'
 ---
 ### Jati Tinggi Group Berhad Q1-2024 Summary
@@ -122,7 +122,7 @@ Their areas of expertise are:
 
 **Listed on Bursa Malaysia**
 - Listed on the **Ace Market** of Bursa Malaysia,
-- Dated 20-December-2024, under the stock code **0292**.
+- Dated 20-December-2023, under the stock code **0292**.
 - Sector: Construction.
 
 {{< footerclaim >}}

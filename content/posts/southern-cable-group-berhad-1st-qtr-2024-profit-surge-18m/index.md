@@ -4,7 +4,7 @@ description: Southern Cable Group Berhad Q1 2024 financial quarterly report reco
 date:   2024-05-29 10:01:35 +0300
 authors: [chan]
 image: '/posts/southern-cable-group-berhad-1st-qtr-2024-profit-surge-18m/cable-wire-industrial-plant.webp'
-tags:  [Southern Cable Group Berhad,Industrial Material, 2024-Q1,Main Market]
+tags:  [Southern Cable Group Berhad,Industrial Material, 2024-Q1,Main Market,IPO-2023]
 tags_color: '#EBCB9E'
 ---
 ### Southern Cable Group Berhad Q1-2024 Summary
@@ -132,7 +132,7 @@ Southern Cable is capable of providing full service from manufacturing to delive
 
 **Listed on Bursa Malaysia**
 - Listed on the **Main Market** of Bursa Malaysia,
-- Dated 16-October-2024, under the stock code **0225**.
+- Dated 16-October-2023, under the stock code **0225**.
 - Sector: Industrial Materials, Components & Equipment.
 
 {{< footerclaim >}}

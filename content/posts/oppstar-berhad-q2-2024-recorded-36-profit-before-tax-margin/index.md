@@ -4,7 +4,7 @@ description: Oppstar Berhad Q2 2024 financial quarterly report recorded 36,31% p
 date:   2023-11-24 15:01:35 +0300
 authors: [chan]
 image: '/posts/oppstar-berhad-q2-2024-recorded-36-profit-before-tax-margin/motherboard-ic-vector-image.jpg'
-tags:  [Oppstar Berhad, Semiconductors,0275, 2023-Q3,Ace Market]
+tags:  [Oppstar Berhad, Semiconductors,0275, 2023-Q3,Ace Market,IPO-2023]
 tags_color: '#E36C14'
 ---
 ### Oppstar Berhad Q2-2024 Summary

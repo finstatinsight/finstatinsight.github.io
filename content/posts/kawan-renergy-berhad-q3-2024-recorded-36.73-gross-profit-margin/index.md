@@ -4,7 +4,7 @@ description: Kawan Renergy Berhad / KENERGY Q3 2024 financial quarterly report r
 date:   2024-09-29 10:01:35 +0300
 authors: [chan]
 image: '/posts/kawan-renergy-berhad-q3-2024-recorded-36.73-gross-profit-margin/vessel-ship-oil-and-gas-sea.webp'
-tags:  [Kawan Renergy Berhad Berhad, 2024-Q3,ACE Market,Industrial Material]
+tags:  [Kawan Renergy Berhad Berhad, 2024-Q3,ACE Market,Industrial Material,IPO-2024]
 tags_color: '#98b0c4'
 ---
 
