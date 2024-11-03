@@ -1,7 +1,7 @@
 ---
 title:  Feytech Holdings Berhad Q2 2024 Delivered Impressive Performance
 description: Feytech Holdings Berhad, a leading manufacturer of automotive seats and covers in Malaysia, has announced strong financial results for the second quarter ended 30 June 2024. The company's revenue and profitability continue to be driven by the expansion of its manufacturing operations and the robust demand for its products.
-date:   2024-11-01 10:01:35 +0300
+date:   2024-08-20 10:01:35 +0300
 authors: [chan]
 image: '/posts/feytech-holdings-berhad-q2-2024-deliver-impresive-performance/automotive-seats-and-covers-manufacture.webp'
 tags:  [Feytech Holdings Berhad, 2024-Q2,Main Market,Auto Parts,IPO-2024]
