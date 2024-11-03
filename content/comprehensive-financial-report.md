@@ -1,10 +1,10 @@
 ---
-title: Comprehensive Financial Report
+title: Comprehensive Financial Dashboard
 image: '/images/pages/vector-financial-dashboard-matrix.jpg'
 ---
-## FinStatInsight Comprehensive Financial Report:
+## FinStatInsight Comprehensive Financial Dashboard:
 
-In order to facilitate a thorough understanding of the group's financial standing, we present a comprehensive financial report analysis. This examination is underpinned by a detailed review of both quarterly and yearly financial data, complemented by trend charts that offer a visual representation of key financial indicators.
+In order to facilitate a thorough understanding of the group's financial standing, we present a comprehensive financial dashboard analysis. This examination is underpinned by a detailed review of both quarterly and yearly financial data, complemented by trend charts that offer a visual representation of key financial indicators.
 
 ### Quarterly & Yearly Financial Overview:
 **Revenue Trends:** The analysis delves into the quarterly / yearly revenue figures, identifying patterns and fluctuations. Notable contributions from specific business segments or regions are highlighted.
@@ -48,4 +48,4 @@ We aim to simplify and expedite your choosen company's fundamental analysis. By 
 
 ### Summary:
 
-This comprehensive financial report analysis aims to equip stakeholders with a nuanced understanding of the group's financial positions. By sharing both quarterly and yearly data alongside trend charts, this analysis seeks to provide a holistic view of the group's financial performance, enabling informed decision-making and strategic planning.
+This comprehensive financial dashboard analysis aims to equip stakeholders with a nuanced understanding of the group's financial positions. By sharing both quarterly and yearly data alongside trend charts, this analysis seeks to provide a holistic view of the group's financial performance, enabling informed decision-making and strategic planning.
