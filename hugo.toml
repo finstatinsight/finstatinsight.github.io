@@ -129,7 +129,7 @@ googleAnalytics = "G-V7F258G3QK" # Add your identifier. For example UA-99631805-
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter X"
-    link = "https://twitter.com/finstatinsight.com"
+    link = "https://twitter.com/finstatinsight"
 
   [[params.social]]
     icon = "ion-logo-facebook"
