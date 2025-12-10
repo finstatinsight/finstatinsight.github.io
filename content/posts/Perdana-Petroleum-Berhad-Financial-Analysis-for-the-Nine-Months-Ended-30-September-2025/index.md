@@ -14,6 +14,8 @@ layout: post
 
 This report delivers a professional financial narrative analyzing the performance of Perdana Petroleum Berhad (the Group) for the first nine months of the fiscal year 2025 (9M 2025). The period under review was characterized by a **significant intra-year operational and financial turnaround**. Following a challenging start in the first quarter, the Perdana Petroleum Berhad Group demonstrated marked resilience, successfully returning to and sustaining robust profitability throughout the second and third quarters. Our analysis will deconstruct the core operational drivers underpinning this recovery, assess the material strengthening of the Group’s balance sheet, and evaluate its strategic placement within the current Offshore Support Vessel (OSV) market environment.
 
+![Perdana Petroleum Berhad Financial Performance and Strategic Positioning (YTD Q3 2025) Chart](perdana-petroleum-q3-2025-finance-performance-hor.webp)
+
 ---
 
 ## 1. Nine-Month Performance Snapshot: Contraction vs. Prior Year
@@ -68,6 +70,8 @@ Sequential quarter-on-quarter analysis reveals the critical turning points and b
 | **Revenue** | 37,563 | 83,244 | 110,000 |
 | **Profit/(Loss) Before Tax** | (16,526) | 41,342 | 55,517 |
 | **Vessel Utilisation Rate (UR)** | 31% | 52% | 75% |
+
+![Perdana Petroleum Berhad Financial Journey YTD Q3 2025 Chart](perdana-petroleum-q3-2025-finance-journey-hor.webp)
 
 ### Analysis of Q3 Normalized Earnings (New Section)
 
