@@ -1,24 +1,13 @@
-I will provide raw financial text, notes, and company info below.  
-Generate a fully formatted Markdown file optimized for GitHub Pages + Jekyll.  
-Follow these rules strictly:
-
-1. Create YAML front-matter with fields: title, description, date, authors, image, tags (max 5), tags_color, layout: post, with tables format when there are, complete with inline colored badges for growth, different section highlights, and colored trend arrows for the financial positions.
-2. Automatically generate a professional post title and short description based on the input.
-3. Include these sections in the post:
-   - ### {{COMPANY_NAME}} {{PERIOD}} Summary
-   - ### About {{COMPANY_NAME}}
-   - Location
-   - Listed on Bursa Malaysia (market, listing date, stock code, sector)
-4. Use clean Markdown formatting. Headings: ###, lists with numbers or bullets.  
-5. Include {{< footerclaim >}} at the bottom.  
-6. Suggest reasonable default image path based on company name if not provided.  
-7. Generate tags (5 max) based on company, industry, and period, and pick a tag color.  
-8. Save it with filename format: index.md
-
-Raw financial text / notes:
-{{Autocount Dotcom Berhad: FY2025 Performance Review for the First Three Quarters
-
---------------------------------------------------------------------------------
+---
+title: "Perdana Petroleum Berhad: Financial Performance and Strategic Positioning (YTD Q3 2025)"
+description: "Perdana Petroleum Berhad's (PPB) remarkable journey through the first nine months of 2025. After navigating a challenging Q1 loss, the Group executed a sharp operational turnaround, achieving robust profitability and accelerating momentum in Q2 and Q3."
+date: 2025-11-20 10:00:00 +0300
+authors: [chan]
+image: '/posts/Perdana-Petroleum-Berhad-Financial-Analysis-for-the-Nine-Months-Ended-30-September-2025/perdana-petroleum-q3-2025-finance-journey-sq.webp'
+tags: [Perdana Petroleum Berhad, FY2025,2025-Q3, Main Market,Energy]
+tags_color: '#e70f0fff'
+layout: post
+---
 # ⚓ Perdana Petroleum Berhad: Financial Performance and Strategic Positioning (YTD Q3 2025)
 
 ## Introduction: Navigating a Period of Intra-Year Volatility
@@ -196,4 +185,30 @@ Management remains "cautiously optimistic," aiming to capitalize on internal ope
 
 ---
 
-}}
+### About Perdana Petroleum Berhad
+[Perdana Petroleum](https://perdana.my/) is a marine services company that supports offshore oil & gas operations through its fleet of vessels.
+
+✅ What the company does
+
+- Perdana Petroleum provides offshore marine support services for the upstream oil & gas industry — both in Malaysia and in regional markets. 
+- It owns and operates a fleet of vessels, including Anchor Handling Tug Supply (AHTS) vessels, accommodation workboats (WB) and workbarges (AWB). 
+- Its services include: accommodation and support for offshore personnel, towing/mooring/anchoring of barges and rigs, transportation of drilling/production/project materials and chemicals, and services to support exploration, development, installation, hook-up & commissioning, production, operations and maintenance offshore. 
+- It also may engage in leasing, and shipping/shipping‑related investments.
+
+---
+
+### 📍 Location / Headquarters & Contact Info
+- The corporate headquarters is located at Level 18, Block 2, VSQ @ PJCC, Jalan Utara, 46200 Petaling Jaya, Selangor, Malaysia. 
+- The company also has presence/offices in Miri and Labuan.
+
+---
+
+### 📈 When it was listed on Bursa & Listing History
+- Perdana was originally listed under the name Petra Perdana Berhad in 16-Aug-2000.  
+- The company changed its name from Petra Perdana Berhad to Perdana Petroleum Berhad in July 2011.
+- Sector: Energy, Infrastructure, Equipment & Services
+- Main Market
+
+---
+
+{{< footerclaim >}}

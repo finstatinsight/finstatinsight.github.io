@@ -4,7 +4,7 @@ description: "Autocount Dotcom Berhad achieved strong growth in FY2025 9M with r
 date: 2025-11-25 10:00:00 +0300
 authors: [chan]
 image: '/posts/Autocount-Dotcom-Berhad-FY2025-Performance-Review-for-the-First-Three-Quarters/ADB-Q3-2025-Performance-Sq.webp'
-tags: [Autocount Dotcom Berhad, FY2025,2025-Q3, Digital Technology & Software Distribution]
+tags: [Autocount Dotcom Berhad, FY2025,2025-Q3, Software, ACE Market]
 tags_color: '#EBCB9E'
 layout: post
 ---
