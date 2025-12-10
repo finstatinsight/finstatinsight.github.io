@@ -164,6 +164,8 @@ Based on the financials, here is how different types of investors might view Eco
 * **The Play:** Growing Income. 7 sen is a record payout.
 * **Outlook:** As the recurring income from data centers starts kicking in (targeting 20-30% of earnings), the dividend could become very "sticky" (reliable) and potentially grow further.
 
+*Disclaimer: This analysis is based on the Q1 FY2026 financial report and is for educational purposes only. It does not constitute a recommendation to buy or sell. Please consult a licensed financial planner before making investment decisions.*
+
 ---
 
 ## 8. Key Takeaways
