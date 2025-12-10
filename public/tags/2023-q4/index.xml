@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023-Q4 on FinStatInsight.com</title>
-    <link>https://finstatinsight.com/tags/2023-q4/</link>
+    <link>http://localhost:1313/tags/2023-q4/</link>
     <description>Recent content in 2023-Q4 on FinStatInsight.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Dec 2023 15:01:35 +0300</lastBuildDate><atom:link href="https://finstatinsight.com/tags/2023-q4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 15:01:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2023-q4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mercury Securities Q4-2023 Profit Before Tax (PBT) Decline to RM 667K Amidst Listing Expenses Impacting RM 3.9M</title>
-      <link>https://finstatinsight.com/posts/mercury-securities-q4-2023-pbt-decline-to-rm-667k-amidst-listing-expenses-impacting-rm-3.9m/</link>
+      <link>http://localhost:1313/posts/mercury-securities-q4-2023-pbt-decline-to-rm-667k-amidst-listing-expenses-impacting-rm-3.9m/</link>
       <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/posts/mercury-securities-q4-2023-pbt-decline-to-rm-667k-amidst-listing-expenses-impacting-rm-3.9m/</guid>
-      <description>Mercury Securities Berhad Q4-2023 Summary In the current quarter Q4-2023 concluding on October 31, 2023, Mercury Securities Berhad achieved a revenue of RM8.71 million which mainly from these 2 segments below.
-Stockbroking segment recorded a revenue of RM6.35 million (72.90%) in the current financial quarter. The 72.90% revenue of the Stockbroking segment are derived from:
-31.10.2023 Brokerage fees 3,681,320 Margin income 1,744,914 Underwriting and Placement Fees 915,148 Nominees fees 4,975 Total 6,346,357 Corporate Finance segment contributed revenue of RM2.</description>
+      <guid>http://localhost:1313/posts/mercury-securities-q4-2023-pbt-decline-to-rm-667k-amidst-listing-expenses-impacting-rm-3.9m/</guid>
+      <description>&lt;h3 id=&#34;mercury-securities-berhad-q4-2023-summary&#34;&gt;Mercury Securities Berhad Q4-2023 Summary&lt;/h3&gt;&#xA;&lt;p&gt;In the current quarter Q4-2023 concluding on October 31, 2023, &lt;strong&gt;Mercury Securities Berhad&lt;/strong&gt; achieved a revenue of RM8.71 million which mainly from these 2 segments below.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stockbroking segment&lt;/strong&gt; recorded a revenue of RM6.35 million (72.90%) in the current financial quarter. The 72.90% revenue of the Stockbroking segment are derived from:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;31.10.2023&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Brokerage fees&lt;/td&gt;&#xA;          &lt;td&gt;3,681,320&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Margin income&lt;/td&gt;&#xA;          &lt;td&gt;1,744,914&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Underwriting and Placement Fees&lt;/td&gt;&#xA;          &lt;td&gt;915,148&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Nominees fees&lt;/td&gt;&#xA;          &lt;td&gt;4,975&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Total&lt;/td&gt;&#xA;          &lt;td&gt;6,346,357&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Corporate Finance&lt;/strong&gt; segment contributed revenue of RM2.36 million (27.10%) in the current financial quarter. During the financial year, the corporate finance team successfully listed 2 companies on the ACE Market of Bursa Securities and also completed several secondary fund raising exercises, accounting for the underwriting and placement fees.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

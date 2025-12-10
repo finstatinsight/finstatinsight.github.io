@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oppstar Berhad on FinStatInsight.com</title>
-    <link>https://finstatinsight.com/tags/oppstar-berhad/</link>
+    <link>http://localhost:1313/tags/oppstar-berhad/</link>
     <description>Recent content in Oppstar Berhad on FinStatInsight.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 15:01:35 +0300</lastBuildDate><atom:link href="https://finstatinsight.com/tags/oppstar-berhad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 15:01:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/oppstar-berhad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oppstar Berhad Q2 2024 Recorded 36,31% Profit Before Tax (PBT) Margin</title>
-      <link>https://finstatinsight.com/posts/oppstar-berhad-q2-2024-recorded-36-profit-before-tax-margin/</link>
+      <link>http://localhost:1313/posts/oppstar-berhad-q2-2024-recorded-36-profit-before-tax-margin/</link>
       <pubDate>Fri, 24 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/posts/oppstar-berhad-q2-2024-recorded-36-profit-before-tax-margin/</guid>
-      <description>Oppstar Berhad Q2-2024 Summary In the current quarter, Oppstar Berhad achieved a noteworthy revenue of around RM14.03 million, contributing to a robust financial period with a total revenue of RM29.71 million.
-During this quarter, turnkey design services played a pivotal role, contributing approximately RM9.51 million, constituting about 67.82% of the Group&amp;rsquo;s total revenue. Notably, these projects hailed from customers in the Northeast and Southeast Asian region, showcasing the Group&amp;rsquo;s regional presence.</description>
+      <guid>http://localhost:1313/posts/oppstar-berhad-q2-2024-recorded-36-profit-before-tax-margin/</guid>
+      <description>&lt;h3 id=&#34;oppstar-berhad-q2-2024-summary&#34;&gt;Oppstar Berhad Q2-2024 Summary&lt;/h3&gt;&#xA;&lt;p&gt;In the current quarter, &lt;strong&gt;Oppstar Berhad&lt;/strong&gt; achieved a noteworthy revenue of around RM14.03 million, contributing to a robust financial period with a total revenue of RM29.71 million.&lt;/p&gt;&#xA;&lt;p&gt;During this quarter, &lt;strong&gt;turnkey design services&lt;/strong&gt; played a pivotal role, contributing approximately RM9.51 million, constituting about 67.82% of the Group&amp;rsquo;s total revenue. Notably, these projects hailed from customers in the Northeast and Southeast Asian region, showcasing the Group&amp;rsquo;s regional presence.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

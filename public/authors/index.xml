@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on FinStatInsight.com</title>
-    <link>https://finstatinsight.com/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on FinStatInsight.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Dec 2023 15:01:35 +0300</lastBuildDate><atom:link href="https://finstatinsight.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 10:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://finstatinsight.com/authors/chan/</link>
-      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/authors/chan/</guid>
-      <description>Passionate about finance and the Malaysian stock market, I thrive on unraveling the intricacies of company fundamentals. Through in-depth financial statement analysis, I seek to enhance my understanding, contributing to informed investment decisions.</description>
+      <link>http://localhost:1313/authors/chan/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/authors/chan/</guid>
+      <description>&lt;p&gt;Passionate about finance and the Malaysian stock market, I thrive on unraveling the intricacies of company fundamentals. Through in-depth financial statement analysis, I seek to enhance my understanding, contributing to informed investment decisions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

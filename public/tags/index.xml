@@ -2,145 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FinStatInsight.com</title>
-    <link>https://finstatinsight.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on FinStatInsight.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Dec 2023 15:01:35 +0300</lastBuildDate><atom:link href="https://finstatinsight.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 10:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023-Q4</title>
-      <link>https://finstatinsight.com/tags/2023-q4/</link>
-      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/2023-q4/</guid>
+      <title>2025-Q3</title>
+      <link>http://localhost:1313/tags/2025-q3/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2025-q3/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>285</title>
-      <link>https://finstatinsight.com/tags/285/</link>
-      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/285/</guid>
+      <title>Autocount Dotcom Berhad</title>
+      <link>http://localhost:1313/tags/autocount-dotcom-berhad/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/autocount-dotcom-berhad/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Mercury Securities Group Berhad</title>
-      <link>https://finstatinsight.com/tags/mercury-securities-group-berhad/</link>
-      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/mercury-securities-group-berhad/</guid>
+      <title>Digital Technology &amp; Software Distribution</title>
+      <link>http://localhost:1313/tags/digital-technology--software-distribution/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/digital-technology--software-distribution/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Others Financials</title>
-      <link>https://finstatinsight.com/tags/others-financials/</link>
-      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/others-financials/</guid>
+      <title>FY2025</title>
+      <link>http://localhost:1313/tags/fy2025/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/fy2025/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>2023-Q3</title>
-      <link>https://finstatinsight.com/tags/2023-q3/</link>
-      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/2023-q3/</guid>
+      <title>2024-Q3</title>
+      <link>http://localhost:1313/tags/2024-q3/</link>
+      <pubDate>Sun, 29 Sep 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2024-q3/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>2024-Q1</title>
-      <link>https://finstatinsight.com/tags/2024-q1/</link>
-      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/2024-q1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>243</title>
-      <link>https://finstatinsight.com/tags/243/</link>
-      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/243/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>283</title>
-      <link>https://finstatinsight.com/tags/283/</link>
-      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/283/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Ace Market</title>
-      <link>https://finstatinsight.com/tags/ace-market/</link>
-      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/ace-market/</guid>
+      <link>http://localhost:1313/tags/ace-market/</link>
+      <pubDate>Sun, 29 Sep 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/ace-market/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Industrial Material</title>
+      <link>http://localhost:1313/tags/industrial-material/</link>
+      <pubDate>Sun, 29 Sep 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/industrial-material/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPO-2024</title>
+      <link>http://localhost:1313/tags/ipo-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/ipo-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kawan Renergy Berhad Berhad</title>
+      <link>http://localhost:1313/tags/kawan-renergy-berhad-berhad/</link>
+      <pubDate>Sun, 29 Sep 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/kawan-renergy-berhad-berhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024-Q2</title>
+      <link>http://localhost:1313/tags/2024-q2/</link>
+      <pubDate>Tue, 20 Aug 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2024-q2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auto Parts</title>
+      <link>http://localhost:1313/tags/auto-parts/</link>
+      <pubDate>Tue, 20 Aug 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/auto-parts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feytech Holdings Berhad</title>
+      <link>http://localhost:1313/tags/feytech-holdings-berhad/</link>
+      <pubDate>Tue, 20 Aug 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/feytech-holdings-berhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main Market</title>
+      <link>http://localhost:1313/tags/main-market/</link>
+      <pubDate>Tue, 20 Aug 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/main-market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024-Q1</title>
+      <link>http://localhost:1313/tags/2024-q1/</link>
+      <pubDate>Wed, 29 May 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2024-q1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPO-2023</title>
+      <link>http://localhost:1313/tags/ipo-2023/</link>
+      <pubDate>Wed, 29 May 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/ipo-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Southern Cable Group Berhad</title>
+      <link>http://localhost:1313/tags/southern-cable-group-berhad/</link>
+      <pubDate>Wed, 29 May 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/southern-cable-group-berhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Construction</title>
+      <link>http://localhost:1313/tags/construction/</link>
+      <pubDate>Fri, 26 Apr 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/construction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jati Tinggi Group Berhad</title>
+      <link>http://localhost:1313/tags/jati-tinggi-group-berhad/</link>
+      <pubDate>Fri, 26 Apr 2024 10:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/jati-tinggi-group-berhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023-Q4</title>
+      <link>http://localhost:1313/tags/2023-q4/</link>
+      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2023-q4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>285</title>
+      <link>http://localhost:1313/tags/285/</link>
+      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/285/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mercury Securities Group Berhad</title>
+      <link>http://localhost:1313/tags/mercury-securities-group-berhad/</link>
+      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/mercury-securities-group-berhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Others Financials</title>
+      <link>http://localhost:1313/tags/others-financials/</link>
+      <pubDate>Tue, 26 Dec 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/others-financials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>0283</title>
+      <link>http://localhost:1313/tags/0283/</link>
+      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/0283/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023-Q3</title>
+      <link>http://localhost:1313/tags/2023-q3/</link>
+      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/2023-q3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>243</title>
+      <link>http://localhost:1313/tags/243/</link>
+      <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/243/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cengild Medical Berhad</title>
-      <link>https://finstatinsight.com/tags/cengild-medical-berhad/</link>
+      <link>http://localhost:1313/tags/cengild-medical-berhad/</link>
       <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/cengild-medical-berhad/</guid>
+      <guid>http://localhost:1313/tags/cengild-medical-berhad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DC Healthcare Holdings Berhad</title>
-      <link>https://finstatinsight.com/tags/dc-healthcare-holdings-berhad/</link>
+      <link>http://localhost:1313/tags/dc-healthcare-holdings-berhad/</link>
       <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/dc-healthcare-holdings-berhad/</guid>
+      <guid>http://localhost:1313/tags/dc-healthcare-holdings-berhad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Healthcare</title>
-      <link>https://finstatinsight.com/tags/healthcare/</link>
+      <link>http://localhost:1313/tags/healthcare/</link>
       <pubDate>Thu, 30 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/healthcare/</guid>
+      <guid>http://localhost:1313/tags/healthcare/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>189</title>
-      <link>https://finstatinsight.com/tags/189/</link>
+      <link>http://localhost:1313/tags/189/</link>
       <pubDate>Fri, 24 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/189/</guid>
+      <guid>http://localhost:1313/tags/189/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Oppstar Berhad</title>
-      <link>https://finstatinsight.com/tags/oppstar-berhad/</link>
+      <link>http://localhost:1313/tags/oppstar-berhad/</link>
       <pubDate>Fri, 24 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/oppstar-berhad/</guid>
+      <guid>http://localhost:1313/tags/oppstar-berhad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Semiconductors</title>
-      <link>https://finstatinsight.com/tags/semiconductors/</link>
+      <link>http://localhost:1313/tags/semiconductors/</link>
       <pubDate>Fri, 24 Nov 2023 15:01:35 +0300</pubDate>
-      
-      <guid>https://finstatinsight.com/tags/semiconductors/</guid>
+      <guid>http://localhost:1313/tags/semiconductors/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
