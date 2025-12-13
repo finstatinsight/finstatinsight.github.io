@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/tags/2025-q4/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/2026-q1/</loc>
+    <lastmod>2025-12-10T10:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
@@ -23,6 +26,12 @@
     <loc>http://localhost:1313/tags/fy2025/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/gamuda-berhad/</loc>
+    <lastmod>2025-12-10T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gamuda-berhad-q1-fy2026-review/</loc>
+    <lastmod>2025-12-10T10:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/main-market/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
@@ -36,7 +45,16 @@
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2025-q3/</loc>
-    <lastmod>2025-11-25T10:00:00+03:00</lastmod>
+    <lastmod>2025-12-08T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/genergy/</loc>
+    <lastmod>2025-12-08T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/genergy-5343-financial-deep-dive-beyond-the-ipo-hype/</loc>
+    <lastmod>2025-12-08T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wasco-greenergy-berhad/</loc>
+    <lastmod>2025-12-08T10:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ace-market/</loc>
     <lastmod>2025-11-25T10:00:00+03:00</lastmod>
