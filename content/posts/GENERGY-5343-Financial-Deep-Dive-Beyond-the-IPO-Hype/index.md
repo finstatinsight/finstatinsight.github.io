@@ -4,7 +4,7 @@ description: "Wasco Greenergy Berhad (GENERGY) Q3 FY2025 Financial Review: Oppor
 date: 2025-12-08 10:00:00 +0300
 authors: [chan]
 image: '/posts/GENERGY-5343-Financial-Deep-Dive-Beyond-the-IPO-Hype/GENERGY-5343-Financial-Review-Q3-2025-SQ.webp'
-tags: [Wasco Greenergy Berhad, Genergy, FY2025,2025-Q3, Main Market,Property]
+tags: [Wasco Greenergy Berhad, Genergy, FY2025,2025-Q3, Main Market,Renewable Energy]
 tags_color: '#1a9ba0ff'
 layout: post
 ---
