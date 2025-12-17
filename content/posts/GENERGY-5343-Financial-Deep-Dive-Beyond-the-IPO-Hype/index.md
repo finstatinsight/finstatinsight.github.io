@@ -3,7 +3,7 @@ title: "GENERGY-(5343)-Financial-Deep-Dive-Beyond-the-IPO-Hype"
 description: "Wasco Greenergy Berhad (GENERGY) Q3 FY2025 Financial Review: Opportunity or Risk? This comprehensive analysis breaks down GENERGY's first post-IPO financial report, evaluating its Q3 FY2025 performance for retail traders and long-term investors. We explore the company's mixed debut, highlighting a stable normalized net profit of RM22.5 million and a robust RM249 million order book, while critically assessing the risks posed by stagnating revenue and negative operating cash flow. From solvent balance sheet metrics to the strategic pivot toward asset ownership, this review provides essential insights into whether GENERGY's current dip below its RM1.00 IPO price represents a buying opportunity or a warning sign."
 date: 2025-12-08 10:00:00 +0300
 authors: [chan]
-image: '/posts/GENERGY-5343-Financial-Deep-Dive-Beyond-the-IPO-Hype/GENERGY-5343-Financial-Review-Q3-2025-SQ.webp'
+image: '/posts/genergy-5343-financial-deep-dive-beyond-the-ipo-hype/GENERGY-5343-Financial-Review-Q3-2025-SQ.webp'
 tags: [Wasco Greenergy Berhad, Genergy, FY2025,2025-Q3, Main Market,Renewable Energy]
 tags_color: '#1a9ba0ff'
 layout: post

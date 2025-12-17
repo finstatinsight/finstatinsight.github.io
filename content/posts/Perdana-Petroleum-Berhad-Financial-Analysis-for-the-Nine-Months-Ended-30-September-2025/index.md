@@ -3,7 +3,7 @@ title: "Perdana Petroleum Berhad: Financial Performance and Strategic Positionin
 description: "Perdana Petroleum Berhad's (PPB) remarkable journey through the first nine months of 2025. After navigating a challenging Q1 loss, the Group executed a sharp operational turnaround, achieving robust profitability and accelerating momentum in Q2 and Q3."
 date: 2025-11-20 10:00:00 +0300
 authors: [chan]
-image: '/posts/Perdana-Petroleum-Berhad-Financial-Analysis-for-the-Nine-Months-Ended-30-September-2025/perdana-petroleum-q3-2025-finance-journey-sq.webp'
+image: '/posts/perdana-petroleum-berhad-financial-analysis-for-the-nine-months-ended-30-september-2025/perdana-petroleum-q3-2025-finance-journey-sq.webp'
 tags: [Perdana Petroleum Berhad, FY2025,2025-Q3, Main Market,Energy]
 tags_color: '#e70f0fff'
 layout: post

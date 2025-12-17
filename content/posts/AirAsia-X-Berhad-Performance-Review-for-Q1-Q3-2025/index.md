@@ -3,7 +3,7 @@ title: "AirAsia X Berhad: Performance Review for Q1-Q3 2025"
 description: "AirAsia X Berhad's performance for the first nine months of 2025 is defined by a profit squeeze, where stable revenue of RM 2.40 billion was undermined by a sharp 45.2% drop in net profit to RM 113.2 million. Although the airline benefited from lower global fuel prices and strong growth in high-margin ancillary income, these gains were entirely erased by soaring maintenance costs and user charges as the fleet returned to full operational capacity. Financial health remains mixed; while shareholders' equity improved, liquidity is tight with cash being heavily utilized for lease repayments, resulting in no dividend payout. Ultimately, the investment narrative has shifted from immediate recovery to a longer-term restructuring play, heavily dependent on turning around the loss-making Thailand segment and successfully completing the acquisition of Capital A’s aviation assets."
 date: 2025-12-08 10:00:00 +0300
 authors: [chan]
-image: '/posts/AirAsia-X-Berhad-Performance-Review-for-Q1-Q3-2025/AirAsia-X-Berhad-Performance-Review-for-Q1-Q3-2025-SQ.webp'
+image: '/posts/airasia-x-berhad-performance-review-for-q1-q3-2025/AirAsia-X-Berhad-Performance-Review-for-Q1-Q3-2025-SQ.webp'
 tags: [AirAsia X Berhad, AAX, FY2025,2025-Q3, Main Market,Travel, Leisure & Hospitality]
 tags_color: '#db0000ff'
 layout: post

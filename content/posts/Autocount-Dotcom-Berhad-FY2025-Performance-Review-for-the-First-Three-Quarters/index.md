@@ -3,7 +3,7 @@ title: "Autocount Dotcom Berhad: FY2025 Nine-Month Performance Review"
 description: "Autocount Dotcom Berhad achieved strong growth in FY2025 9M with revenue up 34.81% and PBT nearly doubling to RM37,477k, driven by its financial management software distribution segment."
 date: 2025-11-25 10:00:00 +0300
 authors: [chan]
-image: '/posts/Autocount-Dotcom-Berhad-FY2025-Performance-Review-for-the-First-Three-Quarters/ADB-Q3-2025-Performance-Sq.webp'
+image: '/posts/autocount-dotcom-berhad-fy2025-performance-review-for-the-first-three-quarters/ADB-Q3-2025-Performance-Sq.webp'
 tags: [Autocount Dotcom Berhad, FY2025,2025-Q3, Software, ACE Market]
 tags_color: '#EBCB9E'
 layout: post
