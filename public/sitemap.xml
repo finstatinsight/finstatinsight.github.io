@@ -20,9 +20,6 @@
     <loc>http://localhost:1313/tags/ecoworld-berhad/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-10T10:00:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/fy2025/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
@@ -30,6 +27,9 @@
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/gamuda-berhad-q1-fy2026-review/</loc>
+    <lastmod>2025-12-10T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-10T10:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/main-market/</loc>
