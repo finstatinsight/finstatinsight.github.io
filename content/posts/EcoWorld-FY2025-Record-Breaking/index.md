@@ -3,7 +3,7 @@ title: "Unpacking EcoWorld’s Financial Record-Breaking FY2025"
 description: "EcoWorld FY2025: Record RM4.55b sales & RM445m profit (+47%). Shareholders get a best-ever 7 sen dividend. Strong cash, low debt, and a massive industrial pivot mark a historic year for the group."
 date: 2025-12-10 10:00:00 +0300
 authors: [chan]
-image: '/posts/EcoWorld-FY2025-Record-Breaking/EcoWorld-FY2025-Record-Breaking-SQ.webp'
+image: '/posts/ecoworld-fy2025-record-breaking/EcoWorld-FY2025-Record-Breaking-SQ.webp'
 tags: [EcoWorld Berhad, FY2025,2025-Q4, Main Market,Property]
 tags_color: '#1f8316ff'
 layout: post

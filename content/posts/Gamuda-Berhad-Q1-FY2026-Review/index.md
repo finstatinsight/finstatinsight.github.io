@@ -3,7 +3,7 @@ title: "Gamuda Berhad (5398) Q1 FY2026 Review: A Construction Giant in Expansion
 description: "Gamuda Berhad’s Q1 FY2026 results demonstrate resilience: while headline revenue dipped 7% due to prior-year one-off items, Net Profit rose 5% to RM215.1 million. This growth was driven by a powerful 53% surge in domestic construction and improved operational efficiency."
 date: 2025-12-10 10:00:00 +0300
 authors: [chan]
-image: '/posts/Gamuda-Berhad-Q1-FY2026-Review/Gamuda-Berhad-Q1-FY2026-Performance-Highlight-SQ.webp'
+image: '/posts/gamuda-berhad-q1-fy2026-review/Gamuda-Berhad-Q1-FY2026-Performance-Highlight-SQ.webp'
 tags: [Gamuda Berhad, FY2025,2026-Q1, Main Market,Property]
 tags_color: '#a0611aff'
 layout: post
